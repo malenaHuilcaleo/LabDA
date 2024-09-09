@@ -1,0 +1,89 @@
+García;Carlos;25;31470375;1;Pikadura FC
+Pérez;Juan;34;22810269;2;Pikadura FC
+López;Mario;29;24380721;3;Pikadura FC
+Gómez;José;42;25485932;4;Pikadura FC
+Fernández;Luis;30;25907434;5;Pikadura FC
+Martínez;Pedro;27;32753668;6;Pikadura FC
+Sánchez;Antonio;38;37473556;7;Pikadura FC
+Ramírez;Diego;24;40630552;8;Pikadura FC
+Torres;Andrés;33;32773468;9;Pikadura FC
+Álvarez;Raúl;26;42071275;10;Pikadura FC
+Morales;Jorge;40;34139434;11;Pikadura FC
+Paredes;Hugo;41;29650925;3;Golden Club FC
+Castro;Alberto;25;40742970;6;Golden Club FC
+Méndez;Ricardo;29;39566561;18;Golden Club FC
+Silva;Oscar;27;36815979;23;Golden Club FC
+Navarro;Tomás;33;36567802;15;Golden Club FC
+Molina;Cristian;38;34102708;1;Golden Club FC
+Ramos;Francisco;26;43238472;7;Golden Club FC
+Aguilar;Joaquín;31;38513633;8;Golden Club FC
+Medina;Leonardo;30;33670546;9;Golden Club FC
+Rojas;Rodrigo;28;35573417;10;Golden Club FC
+Carrasco;Santiago;35;29532069;11;Golden Club FC
+Vega;Gonzalo;32;29703688;14;Los Pildoritas
+Sosa;Esteban;37;25417965;15;Los Pildoritas
+Acosta;Mauricio;27;43817647;16;Los Pildoritas
+Del Valle;Julio;36;25042294;17;Los Pildoritas
+Campos;Nicolás;26;22789429;18;Los Pildoritas
+Romero;Emilio;38;42578269;6;Los Pildoritas
+Figueroa;Héctor;31;22996922;7;Los Pildoritas
+Castro;Álvaro;29;29534325;8;Los Pildoritas
+Cortés;Marcelo;33;42992325;9;Los Pildoritas
+Peña;Rubén;40;38500846;10;Los Pildoritas
+Varela;Patricio;28;38062795;11;Los Pildoritas
+Ayala;David;26;37866645;8;Manzana Mecanica
+Vargas;Ramón;30;31204443;9;Manzana Mecanica
+Ferrer;César;32;38218300;10;Manzana Mecanica
+Núñez;Ricardo;27;37923005;11;Manzana Mecanica
+Godoy;Julián;35;36309634;12;Manzana Mecanica
+Navarro;Nicolás;40;30433649;13;Manzana Mecanica
+Castro;Maximiliano;28;23913136;14;Manzana Mecanica
+Campos;Fernando;31;24565914;15;Manzana Mecanica
+Fuentes;Hugo;29;33716839;16;Manzana Mecanica
+Blanco;Alejandro;25;30422986;17;Manzana Mecanica
+Luna;Marcos;22;36787323;18;Manzana Mecanica
+Guzmán;Martín;36;33020600;1;Dream Team
+Arias;Pedro;28;31356745;2;Dream Team
+Herrera;Oscar;30;33094439;3;Dream Team
+Rojas;Ramiro;32;23652065;4;Dream Team
+Medina;Raúl;37;35457153;5;Dream Team
+Castro;Sergio;29;40144019;6;Dream Team
+Ponce;Federico;26;35586703;7;Dream Team
+Salazar;Tomás;24;38345972;8;Dream Team
+Ramos;Emiliano;35;30856934;9;Dream Team
+Ortega;Manuel;33;40970313;10;Dream Team
+González;Pablo;27;26404310;11;Dream Team
+Fuentes;Hernán;37;26697419;10;El Perla Negra
+Cortés;Lucas;28;24274906;11;El Perla Negra
+Bravo;Matías;25;30401317;12;El Perla Negra
+Ortega;Rodrigo;36;23207288;13;El Perla Negra
+Morales;Emilio;31;43022251;14;El Perla Negra
+Ruiz;Martín;29;25291514;15;El Perla Negra
+Roldán;Cristian;33;22528800;16;El Perla Negra
+Cáceres;Julio;32;38996366;17;El Perla Negra
+Navarro;Alejandro;26;41034028;18;El Perla Negra
+Ponce;Gustavo;27;23637560;23;El Perla Negra
+Castro;Bruno;24;22861411;24;El Perla Negra
+Navarro;Martín;32;35279634;20;Armando Lio
+Castro;Miguel;28;43242547;21;Armando Lio
+Campos;Federico;36;32800375;22;Armando Lio
+Fuentes;Gabriel;25;24551055;23;Armando Lio
+Blanco;Alejandro;33;42260358;24;Armando Lio
+Luna;Tomás;29;31830510;25;Armando Lio
+Guzmán;Martín;40;42780156;26;Armando Lio
+Arias;Pedro;24;31569476;27;Armando Lio
+Herrera;Oscar;28;24533999;28;Armando Lio
+Rojas;Ramiro;27;28225169;29;Armando Lio
+Medina;Raúl;30;22738224;30;Armando Lio
+Domínguez;Miguel;36;40081038;15;Desactivados
+Rivas;Santiago;29;36003070;16;Desactivados
+Farías;Carlos;33;42682829;17;Desactivados
+Herrera;Joaquín;31;27616511;18;Desactivados
+Vidal;Gabriel;26;28985494;19;Desactivados
+Silva;Leandro;40;23982656;20;Desactivados
+Fuentes;Hernán;28;34121704;21;Desactivados
+Cortés;Lucas;25;25047092;22;Desactivados
+Bravo;Matías;32;41191836;23;Desactivados
+Ortega;Rodrigo;30;39824341;24;Desactivados
+Morales;Emilio;29;42226586;25;Desactivados
+
